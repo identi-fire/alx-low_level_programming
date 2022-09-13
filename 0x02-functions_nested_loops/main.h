@@ -1,0 +1,16 @@
+#ifndef _MAIN_H_
+#define _MAIN_H_
+
+char _putchar(char c);
+void print-alphabet(void);
+void print_alphabet_x10(void);
+int _islower(int c);
+int _isaplha(int c);
+int print_sign(int n);
+int _abs(int);
+int print_last_digit(int);
+void jack_bauer(void);
+void times-table(void);
+int add(int, int);
+
+#endif
